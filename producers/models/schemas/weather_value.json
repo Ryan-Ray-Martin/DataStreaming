@@ -1,0 +1,9 @@
+{
+  "namespace": "com.cta.schemas",
+  "name": "weather.value",
+  "type": "record",
+  "fields": [
+    { "name": "temperature", "type": "float" },
+    { "name": "status", "type": "string" }
+  ]
+}
